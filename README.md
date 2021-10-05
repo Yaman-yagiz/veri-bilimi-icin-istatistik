@@ -1,0 +1,2 @@
+# Veri-Bilimi-i-in-statistik
+Bu kaynağı Türkçe olarak paylaşmak istedim. Çünkü bu konularda Türkçe kaynak bulmak bir hayli güç ve belki birileri okuyup faydalanabilir diye düşündüm. Yazdığım içerik Mustafa Vahit Keskin'in videolarından çıkartılmış bir kaynaktır, bana ait ve benim bilgi tecrübelerime dayanan bir kaynak değildir. Fakat elimden geldiğince bazı kısımları daha da anlaşılır hale getirmeye çalıştım. Umarım hoşunuza gider.
